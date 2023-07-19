@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itStorm (Vladimir Krasikov)
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on projects that make life of much people better
-- 📫 Telegram @vlkrasikov
+- 📫 Telegram @leocelot
 
 <!---
 itStorm/itStorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
